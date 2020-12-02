@@ -1,0 +1,121 @@
+/* Tipos */
+.Ground {
+    border: 1px solid rgb(246, 237, 213);
+    background: rgb(219, 181, 77);
+    color: white;
+  }
+  
+  .Psychic {
+    color: white;
+    border: 1px solid rgb(253, 216, 227);
+    background: rgb(247, 54, 112);
+  }
+  
+  .Flying {
+    color: white;
+    border: 1px solid rgb(255, 255, 255);
+    background: rgb(142, 111, 235);
+  }
+  
+  .Fire {
+    color: white;
+    border: 1px solid rgb(247, 191, 151);
+    background: rgb(237, 109, 18);
+  }
+  .Ice {
+    color: white;
+    border: 1px solid rgb(255, 255, 255);
+    background: rgb(126, 206, 206);
+  }
+  .Fighting {
+    color: white;
+    border: 1px solid rgb(223, 105, 98);
+    background: rgb(174, 42, 36);
+  }
+  .Fairy {
+    color: white;
+    border: 1px solid rgb(255, 255, 255);
+    background: rgb(232, 120, 144);
+  }
+  .Water {
+    color: white;
+    border: 1px solid rgb(227, 235, 252);
+    background: rgb(69, 120, 237);
+  }
+  .Electric {
+    color: white;
+    border: 1px solid rgb(252, 234, 161);
+    background: rgb(246, 201, 19);
+  }
+  .Normal {
+    border: 1px solid rgb(211, 211, 187);
+    background: rgb(156, 156, 99);
+    color: white;
+  }
+  
+  .Ghost {
+    border: 1px solid rgb(163, 145, 192);
+    background: rgb(100, 78, 136);
+    color: white;
+  }
+  .Bug {
+    border: 1px solid rgb(209, 224, 77);
+    background: rgb(151, 165, 29);
+    color: white;
+  }
+  .Dragon {
+    border: 1px solid rgb(199, 176, 252);
+    background: rgb(94, 29, 247);
+    color: white;
+  }
+  
+  .Rock {
+    color: white;
+    border: 1px solid rgb(214, 197, 122);
+    background: rgb(164, 143, 50);
+  }
+  
+  .Steel {
+    color: white;
+    border: rgb(255, 255, 255);
+    background-color: rgb(160, 160, 192);
+  }
+  
+  .Dark {
+    border: 1px solid rgb(156, 122, 99);
+    background: rgb(100, 78, 64);
+    color: white;
+  }
+  .Grass {
+    border: 1px solid rgb(186, 227, 166);
+    background: rgb(105, 194, 61);
+    color: white;
+  }
+  
+  .Poison {
+    border: 1px solid rgb(200, 116, 200);
+    background: rgb(146, 58, 146);
+    color: white;
+  }
+  
+  .cartas,
+  .modalCard {
+    width: 10rem;
+  }
+  
+  .modalaje {
+    margin: 0 auto;
+  }
+  
+  .botonChico {
+    border-radius: 2rem;
+    padding: 3px 6px;
+  }
+  
+  .boton-logo-siguiendo:hover {
+    cursor: pointer;
+    background-color: #e2e2e2;
+  }
+  
+  /* Tipos de pokemon color combinacion */
+  
